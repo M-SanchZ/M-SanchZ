@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/M-SanchZ/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/M-SanchZ/M-SanchZ-oSticket-Post-Insallation-Configuration-)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/M-SanchZ/osticket-Ticket-Life-Examples-)
-- <b>Virtual Private Networks(VPNs))</b>
+- <b>Virtual Private Networks(VPNs)</b>
   - [VPN Setup](https://github.com/M-SanchZ/VPN-Setup-and-Usage-Proton-VPN-/tree/main)
 
 - <b>Microsoft Azure</b>
