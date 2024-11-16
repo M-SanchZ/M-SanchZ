@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/M-SanchZ/M-SanchZ-oSticket-Post-Insallation-Configuration-)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/M-SanchZ/osticket-Ticket-Life-Examples-)
 - <b>Virtual Private Networks(VPNs))</b>
-  - [VPN: Setup and Usage( Proton VPN)[VPN Setup](https://github.com/M-SanchZ/VPN-Setup-and-Usage-Proton-VPN-/tree/main)
+  - [VPN Setup](https://github.com/M-SanchZ/VPN-Setup-and-Usage-Proton-VPN-/tree/main)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/configure-ad)
