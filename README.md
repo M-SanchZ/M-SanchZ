@@ -10,7 +10,8 @@
   - [VPN Setup](https://github.com/M-SanchZ/VPN-Setup-and-Usage-Proton-VPN-/tree/main)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/Active-Directory)
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/M-SanchZ/azure-network-protocols)
 
 
