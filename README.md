@@ -11,7 +11,7 @@
 
 - <b>Microsoft Azure</b>
 
-  -[Setup-Domain-Controller-Azure](https://github.com/M-SanchZ/Setup-Domain-Controller-in-Azure)
+  - [Setup-Domain-Controller-Azure](https://github.com/M-SanchZ/Setup-Domain-Controller-in-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/Active-Directory)
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/M-SanchZ/azure-network-protocols)
