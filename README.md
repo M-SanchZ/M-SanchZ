@@ -9,7 +9,7 @@
 - <b>Virtual Private Networks(VPNs)</b>
   - [VPN Setup](https://github.com/M-SanchZ/VPN-Setup-and-Usage-Proton-VPN-/tree/main)
 
-- <b>Microsoft Azure: Active Directory</b>
+- <b>Microsoft Azure: Creating an Active Directory</b>
 
   - [Setup-Domain-Controller-Azure](https://github.com/M-SanchZ/Setup-Domain-Controller-in-Azure) 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/Active-Directory)
