@@ -17,7 +17,7 @@
 
 - <b>DNS</b>
 
-  -[Practicing with DNS](https://github.com/M-SanchZ/practicing-with-DNS/blob/main/README.md)
+  - [Practicing with DNS](https://github.com/M-SanchZ/practicing-with-DNS/blob/main/README.md)
 
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/M-SanchZ/azure-network-protocols)
