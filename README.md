@@ -31,7 +31,7 @@
 
 
 # 💫 About Me:
-<br><br><br>Certainly! Here’s a more polished and industry-focused version of your statement, tailored to highlight your enthusiasm, commitment, and proactive approach to gaining experience in IT:
+<br><br><br>Certainly! Marvin Sanchez:
 
 ---
 
@@ -43,9 +43,7 @@ Through self-study and personal projects, I am enhancing my understanding of net
 
 While I am in the early stages of my career, I am highly motivated to transition into a full-time IT role where I can contribute to a team, continue expanding my skills, and grow within the industry. I am eager to leverage my passion for technology and my dedication to ongoing learning to make a meaningful impact in a professional IT environment.
 
----
-
-This version emphasizes your proactive learning, the practical tools you're working with, and your commitment to growth—qualities that align well with what employers in the IT industry are looking for..<br><br><br><br>
+---..<br><br><br><br>
 
 
 ## 🌐 Socials:
