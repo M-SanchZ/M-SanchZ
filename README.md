@@ -35,15 +35,13 @@
 
 ---
 
-As an aspiring IT professional interested in systems administration, network management, and troubleshooting, I am building a foundation of hands-on experience to complement my academic knowledge. Although I am relatively new to the field, I am dedicated to developing a comprehensive skill set and am actively pursuing opportunities to deepen my expertise.
+As an aspiring IT professional transitioning into the technology field, I am actively building a strong foundation in systems administration, network management, and troubleshooting. Although I am relatively new to the industry, I am committed to acquiring hands-on experience and expanding my skill set through personal projects and self-study.
 
-Currently, I am focusing on gaining practical experience with various critical IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These areas are essential to IT support and infrastructure management, and I am committed to mastering them to address technical challenges and provide value to businesses effectively.
+Currently, I am focusing on gaining proficiency with key IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These technologies are essential to IT support and infrastructure management, and I am eager to develop the expertise needed to address real-world technical challenges.
 
-Through self-study and personal projects, I am enhancing my understanding of network and system operations, and I am developing a hands-on approach to solving real-world IT problems. These projects allow me to apply theoretical knowledge to practical scenarios, reinforcing my ability to troubleshoot, manage systems, and support network operations.
+In my transition from Truck Driving, I have leveraged my strong problem-solving abilities, attention to detail, and communication skills—qualities that have been valuable in both my past work and in my current IT studies. Through self-guided learning and hands-on projects, I am deepening my understanding of network and system operations and honing my ability to troubleshoot, manage, and support IT infrastructure.
 
-While I am in the early stages of my career, I am highly motivated to transition into a full-time IT role where I can contribute to a team, continue expanding my skills, and grow within the industry. I am eager to leverage my passion for technology and my dedication to ongoing learning to make a meaningful impact in a professional IT environment.
-
----<br><br><br><br>
+I am highly motivated to make a successful transition into a full-time IT role, where I can contribute to a team, continue expanding my skills, and grow within the industry. I am confident that my passion for technology, combined with my dedication to learning, will enable me to make a meaningful impact in a professional IT environment.<br><br><br><br>
 
 
 ## 🌐 Socials:
