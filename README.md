@@ -31,7 +31,21 @@
 
 
 # 💫 About Me:
-<br><br><br>I’m an aspiring IT professional interested in systems administration, network management, and troubleshooting. Although I’m relatively new to the field and don't yet have formal industry experience, I am actively working on gaining hands-on knowledge through personal projects and self-study. <br><br>Currently, I’m focused on learning and working with a range of technologies, including **ticketing systems** (specifically **osTicket**), **Virtual Private Networks (VPNs)**, **Active Directory**, **DNS management**, and **network file shares and permissions**. I’m passionate about mastering these tools because I believe they form the backbone of IT support and network infrastructure. By building out my skills in these areas, I’m preparing myself to solve real-world technical challenges and support businesses with their IT needs.<br><br>Though I'm still in the early stages of my IT journey, I'm committed to gaining practical experience, and I’m always eager to expand my knowledge. I'm actively working through real-life projects that give me hands-on experience and a deeper understanding of how networks and systems operate. My goal is to transition into a full-time IT role, where I can contribute to a team, continue learning, and grow within the industry.<br><br><br><br>
+<br><br><br>Certainly! Here’s a more polished and industry-focused version of your statement, tailored to highlight your enthusiasm, commitment, and proactive approach to gaining experience in IT:
+
+---
+
+As an aspiring IT professional with a strong interest in systems administration, network management, and troubleshooting, I am actively building a foundation of hands-on experience to complement my academic knowledge. Although I am relatively new to the field, I am dedicated to developing a comprehensive skill set and am actively pursuing opportunities to deepen my expertise.
+
+Currently, I am focusing on gaining practical experience with a variety of critical IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These areas are essential to IT support and infrastructure management, and I am committed to mastering them to effectively address technical challenges and provide value to businesses.
+
+Through self-study and personal projects, I am enhancing my understanding of network and system operations, and I am developing a hands-on approach to solving real-world IT problems. These projects allow me to apply theoretical knowledge to practical scenarios, reinforcing my ability to troubleshoot, manage systems, and support network operations.
+
+While I am in the early stages of my career, I am highly motivated to transition into a full-time IT role where I can contribute to a team, continue expanding my skills, and grow within the industry. I am eager to leverage my passion for technology and my dedication to ongoing learning to make a meaningful impact in a professional IT environment.
+
+---
+
+This version emphasizes your proactive learning, the practical tools you're working with, and your commitment to growth—qualities that align well with what employers in the IT industry are looking for..<br><br><br><br>
 
 
 ## 🌐 Socials:
