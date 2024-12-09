@@ -31,19 +31,19 @@
 
 
 # 💫 About Me:
-<br><br><br>Certainly! Marvin Sanchez:
+<br><br><br> Hello my name is Marvin!
 
 ---
 
-As an aspiring IT professional with a strong interest in systems administration, network management, and troubleshooting, I am actively building a foundation of hands-on experience to complement my academic knowledge. Although I am relatively new to the field, I am dedicated to developing a comprehensive skill set and am actively pursuing opportunities to deepen my expertise.
+As an aspiring IT professional interested in systems administration, network management, and troubleshooting, I am building a foundation of hands-on experience to complement my academic knowledge. Although I am relatively new to the field, I am dedicated to developing a comprehensive skill set and am actively pursuing opportunities to deepen my expertise.
 
-Currently, I am focusing on gaining practical experience with a variety of critical IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These areas are essential to IT support and infrastructure management, and I am committed to mastering them to effectively address technical challenges and provide value to businesses.
+Currently, I am focusing on gaining practical experience with various critical IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These areas are essential to IT support and infrastructure management, and I am committed to mastering them to address technical challenges and provide value to businesses effectively.
 
 Through self-study and personal projects, I am enhancing my understanding of network and system operations, and I am developing a hands-on approach to solving real-world IT problems. These projects allow me to apply theoretical knowledge to practical scenarios, reinforcing my ability to troubleshoot, manage systems, and support network operations.
 
 While I am in the early stages of my career, I am highly motivated to transition into a full-time IT role where I can contribute to a team, continue expanding my skills, and grow within the industry. I am eager to leverage my passion for technology and my dedication to ongoing learning to make a meaningful impact in a professional IT environment.
 
----..<br><br><br><br>
+---<br><br><br><br>
 
 
 ## 🌐 Socials:
