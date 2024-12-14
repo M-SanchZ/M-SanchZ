@@ -15,6 +15,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/M-SanchZ/Active-Directory)
   - [Group Policy and Managing Accounts](https://github.com/M-SanchZ/enabling-and-Unlocking-Accounts-)
 
+  - [Active Directory Practices and Troubleshooting](https://github.com/M-SanchZ/Active--Directory-demo)
+
+
 - <b>DNS</b>
 
   - [Practicing with DNS](https://github.com/M-SanchZ/practicing-with-DNS/blob/main/README.md)
