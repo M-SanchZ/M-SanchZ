@@ -25,7 +25,7 @@
 
 
 
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/M-SanchZ/Network-Protocol-/blob/main/README.md)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/M-SanchZ/Network-Protocol-/blob/main/README.md)
 
 
 
