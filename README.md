@@ -40,13 +40,7 @@
 
 ---
 
-As an aspiring IT professional transitioning into the technology field, I am actively building a strong foundation in systems administration, network management, and troubleshooting. Although I am relatively new to the industry, I am committed to acquiring hands-on experience and expanding my skill set through personal projects and self-study.
-
-Currently, I am focusing on gaining proficiency with key IT tools and technologies, including ticketing systems such as osTicket, Virtual Private Networks (VPNs), Active Directory, DNS management, and network file shares and permissions. These technologies are essential to IT support and infrastructure management, and I am eager to develop the expertise needed to address real-world technical challenges.
-
-In my transition from Truck Driving, I have leveraged my strong problem-solving abilities, attention to detail, and communication skills—qualities that have been valuable in both my past work and in my current IT studies. Through self-guided learning and hands-on projects, I am deepening my understanding of network and system operations and honing my ability to troubleshoot, manage, and support IT infrastructure.
-
-I am highly motivated to make a successful transition into a full-time IT role, where I can contribute to a team, continue expanding my skills, and grow within the industry. I am confident that my passion for technology, combined with my dedication to learning, will enable me to make a meaningful impact in a professional IT environment.<br><br><br><br>
+As an aspiring IT professional transitioning from a career in truck driving, I am dedicated to building a strong foundation in systems administration, network management, and technical troubleshooting. Although new to the industry, I am actively gaining hands-on experience through self-study and personal projects to accelerate my growth in IT support<br><br><br><br>
 
 
 ## 🌐 Socials:
